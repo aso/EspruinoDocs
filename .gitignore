@@ -1,0 +1,17 @@
+*~
+*.o
+*.elf
+*.hex
+*.lst
+*.srec
+*.bin
+*.pyc
+*.bak
+gen/*
+boards/*.html
+boards/*.json
+zipcontents
+tmp
+benchmark/*.txt
+benchmark/*.result.json
+/espruino
